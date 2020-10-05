@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16c40786a19051e18b518b0bcfbec171",
+    "revision": "2105d488a0408d5d333d9c743d166283",
     "url": "/benz/index.html"
   },
   {
-    "revision": "c7e15afeb853288a74d9",
+    "revision": "7755565ec5fde32d138a",
     "url": "/benz/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "9d86e7b189a73d3af492",
+    "revision": "cef95dcfc15759af8755",
     "url": "/benz/static/css/main.792ef942.chunk.css"
   },
   {
-    "revision": "c7e15afeb853288a74d9",
-    "url": "/benz/static/js/2.8e502934.chunk.js"
+    "revision": "7755565ec5fde32d138a",
+    "url": "/benz/static/js/2.d118be08.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/benz/static/js/2.8e502934.chunk.js.LICENSE.txt"
+    "url": "/benz/static/js/2.d118be08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d86e7b189a73d3af492",
-    "url": "/benz/static/js/main.de85a4a2.chunk.js"
+    "revision": "cef95dcfc15759af8755",
+    "url": "/benz/static/js/main.c666ea9b.chunk.js"
   },
   {
     "revision": "4883b0ea6b12a5ad46d8",
