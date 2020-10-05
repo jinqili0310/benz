@@ -1,11 +1,9 @@
+<!--
+ * @Author: Jinqi Li
+ * @Date: 2020-08-13 04:39:53
+ * @LastEditors: Jinqi Li
+ * @LastEditTime: 2020-10-04 23:02:08
+ * @FilePath: /benz/README.md
+-->
 # Mercedes-Benz Clone
-* ## [Temporary Host](https://still-basin-76904.herokuapp.com/)
-* ## Usage
-  * **`npm install`** <br>
-    install npm package (if you haven't installed it before)
-  * **`cd <project folder>`** <br>
-    direct to the project folder
-  * **`npm start`** <br>
-    start npm package
-  * **`npm run build`** <br>
-* ## [Heroku Branch for Building](https://dashboard.heroku.com/apps/still-basin-76904)
+* ## [GitHub Page](https://kikijinqili.github.io/benz/)
