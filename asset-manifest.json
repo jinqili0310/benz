@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/benz/static/css/main.792ef942.chunk.css",
-    "main.js": "/benz/static/js/main.14547c9d.chunk.js",
-    "main.js.map": "/benz/static/js/main.14547c9d.chunk.js.map",
+    "main.js": "/benz/static/js/main.0b1af4f6.chunk.js",
+    "main.js.map": "/benz/static/js/main.0b1af4f6.chunk.js.map",
     "runtime-main.js": "/benz/static/js/runtime-main.cd095e27.js",
     "runtime-main.js.map": "/benz/static/js/runtime-main.cd095e27.js.map",
     "static/css/2.11829350.chunk.css": "/benz/static/css/2.11829350.chunk.css",
-    "static/js/2.005b32b6.chunk.js": "/benz/static/js/2.005b32b6.chunk.js",
-    "static/js/2.005b32b6.chunk.js.map": "/benz/static/js/2.005b32b6.chunk.js.map",
+    "static/js/2.8e502934.chunk.js": "/benz/static/js/2.8e502934.chunk.js",
+    "static/js/2.8e502934.chunk.js.map": "/benz/static/js/2.8e502934.chunk.js.map",
     "index.html": "/benz/index.html",
-    "precache-manifest.432194acf1f1dabf28338f571a6927e7.js": "/benz/precache-manifest.432194acf1f1dabf28338f571a6927e7.js",
+    "precache-manifest.90df5916829478eceffd15f77f1efd9c.js": "/benz/precache-manifest.90df5916829478eceffd15f77f1efd9c.js",
     "service-worker.js": "/benz/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/benz/static/css/2.11829350.chunk.css.map",
     "static/css/main.792ef942.chunk.css.map": "/benz/static/css/main.792ef942.chunk.css.map",
-    "static/js/2.005b32b6.chunk.js.LICENSE.txt": "/benz/static/js/2.005b32b6.chunk.js.LICENSE.txt",
+    "static/js/2.8e502934.chunk.js.LICENSE.txt": "/benz/static/js/2.8e502934.chunk.js.LICENSE.txt",
     "static/media/19C0840_005_FVP.jpg": "/benz/static/media/19C0840_005_FVP.93ac4ac6.jpg",
     "static/media/2020-GLB-SUV-CH-1-1-DR.jpg": "/benz/static/media/2020-GLB-SUV-CH-1-1-DR.2d23408d.jpg",
     "static/media/2020-GLC-SUV-CH-1-1-DR.jpg": "/benz/static/media/2020-GLC-SUV-CH-1-1-DR.29451766.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.cd095e27.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.005b32b6.chunk.js",
+    "static/js/2.8e502934.chunk.js",
     "static/css/main.792ef942.chunk.css",
-    "static/js/main.14547c9d.chunk.js"
+    "static/js/main.0b1af4f6.chunk.js"
   ]
 }
