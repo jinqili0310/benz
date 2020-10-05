@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/benz/static/css/main.792ef942.chunk.css",
-    "main.js": "/benz/static/js/main.c666ea9b.chunk.js",
-    "main.js.map": "/benz/static/js/main.c666ea9b.chunk.js.map",
+    "main.js": "/benz/static/js/main.60d9129f.chunk.js",
+    "main.js.map": "/benz/static/js/main.60d9129f.chunk.js.map",
     "runtime-main.js": "/benz/static/js/runtime-main.cd095e27.js",
     "runtime-main.js.map": "/benz/static/js/runtime-main.cd095e27.js.map",
     "static/css/2.11829350.chunk.css": "/benz/static/css/2.11829350.chunk.css",
     "static/js/2.d118be08.chunk.js": "/benz/static/js/2.d118be08.chunk.js",
     "static/js/2.d118be08.chunk.js.map": "/benz/static/js/2.d118be08.chunk.js.map",
     "index.html": "/benz/index.html",
-    "precache-manifest.b110155d4e78fad5aa771cbf1887fb1d.js": "/benz/precache-manifest.b110155d4e78fad5aa771cbf1887fb1d.js",
+    "precache-manifest.d9db5344d15458cd098bea5a6b41312e.js": "/benz/precache-manifest.d9db5344d15458cd098bea5a6b41312e.js",
     "service-worker.js": "/benz/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/benz/static/css/2.11829350.chunk.css.map",
     "static/css/main.792ef942.chunk.css.map": "/benz/static/css/main.792ef942.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.d118be08.chunk.js",
     "static/css/main.792ef942.chunk.css",
-    "static/js/main.c666ea9b.chunk.js"
+    "static/js/main.60d9129f.chunk.js"
   ]
 }
