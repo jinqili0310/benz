@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/benz/static/css/main.792ef942.chunk.css",
+    "main.js": "/benz/static/js/main.14547c9d.chunk.js",
+    "main.js.map": "/benz/static/js/main.14547c9d.chunk.js.map",
+    "runtime-main.js": "/benz/static/js/runtime-main.cd095e27.js",
+    "runtime-main.js.map": "/benz/static/js/runtime-main.cd095e27.js.map",
+    "static/css/2.11829350.chunk.css": "/benz/static/css/2.11829350.chunk.css",
+    "static/js/2.005b32b6.chunk.js": "/benz/static/js/2.005b32b6.chunk.js",
+    "static/js/2.005b32b6.chunk.js.map": "/benz/static/js/2.005b32b6.chunk.js.map",
+    "index.html": "/benz/index.html",
+    "precache-manifest.432194acf1f1dabf28338f571a6927e7.js": "/benz/precache-manifest.432194acf1f1dabf28338f571a6927e7.js",
+    "service-worker.js": "/benz/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/benz/static/css/2.11829350.chunk.css.map",
+    "static/css/main.792ef942.chunk.css.map": "/benz/static/css/main.792ef942.chunk.css.map",
+    "static/js/2.005b32b6.chunk.js.LICENSE.txt": "/benz/static/js/2.005b32b6.chunk.js.LICENSE.txt",
+    "static/media/19C0840_005_FVP.jpg": "/benz/static/media/19C0840_005_FVP.93ac4ac6.jpg",
+    "static/media/2020-GLB-SUV-CH-1-1-DR.jpg": "/benz/static/media/2020-GLB-SUV-CH-1-1-DR.2d23408d.jpg",
+    "static/media/2020-GLC-SUV-CH-1-1-DR.jpg": "/benz/static/media/2020-GLC-SUV-CH-1-1-DR.29451766.jpg",
+    "static/media/2021-GLA-SUV-CH-1-1-DR.jpg": "/benz/static/media/2021-GLA-SUV-CH-1-1-DR.30f37537.jpg",
+    "static/media/Accessory-Vehicle-XL-865x600.jpg": "/benz/static/media/Accessory-Vehicle-XL-865x600.19c4ec4a.jpg",
+    "static/media/index.css": "/benz/static/media/MBCorpoSText-Regular-Web.e8fb216e.ttf",
+    "static/media/HKW_SE2_DR.jpg": "/benz/static/media/HKW_SE2_DR.e375ef61.jpg",
+    "static/media/Mercedes_Benz__logo--desktop.png": "/benz/static/media/Mercedes_Benz__logo--desktop.1fc39981.png",
+    "static/media/accessories_865x600.jpg": "/benz/static/media/accessories_865x600.3313c053.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd095e27.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.005b32b6.chunk.js",
+    "static/css/main.792ef942.chunk.css",
+    "static/js/main.14547c9d.chunk.js"
+  ]
+}
