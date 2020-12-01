@@ -355,7 +355,7 @@ function displayBot() {
 
 	if (user_name == '') {
 		setTimeout(function() {
-			postBotAnswer('Hello, car connoisseur! I am Marcel, Mercedes-Benz’s chatbot. What is your name?');
+			postBotAnswer('Hello, car connoisseur! I am Marcel, Mercedes-Benz’s chatbot powered by AI. What is your name?');
 		}, 500);
 	}
 }
